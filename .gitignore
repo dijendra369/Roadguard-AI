@@ -11,3 +11,11 @@ __pycache__/
 *.zip
 uploads/
 ai-model/dataset/
+
+# YOLO training outputs and temporary files
+runs/detect/*/
+runs/runs/
+*.backup
+ai-model/data_mps_benchmark.yaml
+ai-model/data_test.yaml
+ai-model/yolo11n.pt
