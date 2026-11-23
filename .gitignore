@@ -10,3 +10,4 @@ __pycache__/
 *.dump
 *.zip
 uploads/
+ai-model/dataset/

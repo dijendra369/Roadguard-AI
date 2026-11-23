@@ -38,3 +38,6 @@ starlette==1.10.0
 typing-inspection==0.4.5
 typing_extensions==4.16.0
 uvicorn==0.54.0
+ultralytics==8.4.208
+python-multipart
+Pillow
