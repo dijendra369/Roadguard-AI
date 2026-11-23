@@ -8,7 +8,7 @@ from ultralytics import YOLO
 
 MODEL_PATH = (
     Path(__file__).resolve().parents[3]
-    / "runs" / "detect" / "train" / "weights" / "best.pt"
+    / "runs" / "detect" / "roadguard_mps_10pct_5epochs" / "weights" / "best.pt"
 )
 
 
